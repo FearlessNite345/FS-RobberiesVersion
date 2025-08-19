@@ -1,3 +1,6 @@
+# Changelog v1.0.3
+- Fixed issues with the ImperialCAD integration not working correctly
+
 # Changelog v1.0.2
 - The script now pulls the `imperial_community_id` from a convar instead of requiring manual setup in `cad.lua`.
 
