@@ -8,7 +8,8 @@
 - Improved ped positioning logic to prevent looping or getting stuck  
 - Added 4 default robbable bank vaults  
 - Added 1 custom robbable vault in collaboration with Prompt Studio (disabled by default if you don’t own the MLO)  
-- Adjusted `postals.json` handling to safely ignore stray comments without breaking parsing
+- Adjusted `postals.json` handling to safely ignore stray comments without breaking parsing  
+- And many more tweaks and improvements
 
 # Changelog v1.0.3
 
