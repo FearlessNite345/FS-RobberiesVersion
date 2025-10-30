@@ -1,3 +1,7 @@
+# Changelog v1.1.1
+- Added an additional deposit box (Deposit Box 6) inside the Prompts Sandy Bank, located on the right-hand wall.
+- Fixed an issue where the panic button was missing from registers when using **ox_target**.
+
 # Changelog v1.1.0
 
 - Added an option to disable the drill minigame and switch to a timer-based system instead  
