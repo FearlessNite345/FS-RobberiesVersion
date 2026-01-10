@@ -1,3 +1,14 @@
+# Changelog v1.2.0
+- Added support for global cooldowns so cooldowns can be shared across all ATMs, registers, and similar targets instead of being handled individually (customer request)
+- Added full support for lation_ui
+- Added the /openvault command to manually open a vault
+- Added the /closevault command to manually close a vault
+- Added a new export to open or close a vault by its ID, for example harmony_fleeca_bank_vault_door (customer request)this project
+- Added additional CAD systems to the supported list, note that not all have been fully tested
+- Added many new config options, including the ability to add or remove supported robbery models (customer request)
+- Various other small fixes, tweaks, and improvements
+- Removed official support for the BigDaddyScripts money script due to ongoing false claims being made against 
+
 # Changelog v1.1.1
 - Added an additional deposit box (Deposit Box 6) inside the Prompts Sandy Bank, located on the right-hand wall.
 - Fixed an issue where the panic button was missing from registers when using **ox_target**.
