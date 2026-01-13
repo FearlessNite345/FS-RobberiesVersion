@@ -7,7 +7,6 @@
 - Added additional CAD systems to the supported list, note that not all have been fully tested
 - Added many new config options, including the ability to add or remove supported robbery models (customer request)
 - Various other small fixes, tweaks, and improvements
-- Removed official support for the BigDaddyScripts money script due to ongoing false claims being made against me 
 
 # Changelog v1.1.1
 - Added an additional deposit box (Deposit Box 6) inside the Prompts Sandy Bank, located on the right-hand wall.
