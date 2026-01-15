@@ -1,3 +1,6 @@
+# Changelog v1.2.1
+- Fixed a issue with export naming for QBX
+
 # Changelog v1.2.0
 - Added support for global cooldowns so cooldowns can be shared across all ATMs, registers, and similar targets instead of being handled individually (customer request)
 - Added full support for lation_ui
