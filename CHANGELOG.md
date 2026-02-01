@@ -1,3 +1,10 @@
+# Changelog v1.2.2
+- Added randomized CAD dispatch timing for timed drill robberies (no minigame) to reduce predictability
+- Added separate CAD titles for vault robberies vs registers/ATMs/safes
+- Added extra debug logging (CAD dispatch flow, robbery branch/timing, permissions/cooldowns, vault/inside state)
+- Fixed CAD caller text so automated vs manual alarm labels display correctly
+- Fixed missing CAD calls when drill minigames are disabled (timed drill flow)
+
 # Changelog v1.2.1
 - Fixed a issue with export naming for QBX
 
