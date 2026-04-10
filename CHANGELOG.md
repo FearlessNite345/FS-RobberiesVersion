@@ -1,3 +1,12 @@
+# Changelog v1.2.3
+- Added drill overheat blast settings (radius/force/upforce) and optional drill item removal on explode.
+- Added drill difficulty setting (easy/normal/hard/insane/random) for overheat behavior.
+- Added drill explosion shockwave for nearby players (uses the blast radius setting).
+- Fixed pin‑break timing for both drill types (standard drill + laser).
+- Fixed ACE permission checks not applying correctly for robberies.
+- Fixed rare ATM interaction errors related to ox_target.
+- UI overhaul (robbery progress + drill HUD).
+
 # Changelog v1.2.2
 - Added randomized CAD dispatch timing for timed drill robberies (no minigame) to reduce predictability
 - Added separate CAD titles for vault robberies vs registers/ATMs/safes
