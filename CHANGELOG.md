@@ -1,3 +1,6 @@
+# Changelog v1.2.4
+- Fixed outdated cad integration with ImperialCAD
+
 # Changelog v1.2.3
 - Added drill overheat blast settings (radius/force/upforce) and optional drill item removal on explode.
 - Added drill difficulty setting (easy/normal/hard/insane/random) for overheat behavior.
