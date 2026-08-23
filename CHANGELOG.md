@@ -1,3 +1,13 @@
+# Changelog v1.3.0
+- Added an ACE-protected in-game robbery creator for creating, editing, deleting, and visually placing robberies, vaults, polygons, loot carts, and cash piles
+- Added JSON persistence for custom robberies and vaults, including automatic legacy migration and backups, while keeping built-in definitions read-only
+- Replaced vault drilling with multi-stage native hacking, randomized passwords, configurable normal/hard difficulties, and a handheld tablet animation
+- Added synchronized vault loot with cash and gold carts, table cash piles, server-authoritative rewards, and text, ox_target, and qb-target interactions
+- Reworked the drill minigame with an optimal-speed zone, active cooling, pin resistance, frame-rate-independent acceleration, and faster pacing
+- Added an optional register minigame and improved Yoga prompts with live keyboard/mouse and controller artwork
+- Added Lux CAD Community API support with dedicated incident types for registers, ATMs, safes, vaults, and panic alarms
+- Added authored loot layouts for Pacific Standard and the Great Ocean Highway and Legion Square Fleeca vaults
+
 # Changelog v1.2.4
 - Fixed outdated cad integration with ImperialCAD
 
