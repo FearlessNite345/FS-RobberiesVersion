@@ -1,3 +1,8 @@
+# Changelog v1.3.1
+- Added secure bank-manager vault controls with ACE and optional Lux CAD access, configurable time locks, and optional robbery-loot spawning
+- Added visible cooldown options with exact remaining-time notifications for robberies using target interactions
+- Resolved Lua diagnostics and disabled internal development mode for production builds
+
 # Changelog v1.3.0
 - Added an ACE-protected in-game robbery creator for creating, editing, deleting, and visually placing robberies, vaults, polygons, loot carts, and cash piles
 - Added JSON persistence for custom robberies and vaults, including automatic legacy migration and backups, while keeping built-in definitions read-only
